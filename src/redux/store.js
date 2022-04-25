@@ -12,7 +12,8 @@ let store = {
       { id: 4, message: 'Hey body', likesCount: 10 }],
     newPostText: 'Billy unlikely comeback'
     },
-    messagePage:{dialogs:[
+    messagePage:{
+    dialogs:[
       {id: 1, name:'Dimych'},
       {id: 2, name:'Andrew'},
       {id: 3, name:'Sveta'},
